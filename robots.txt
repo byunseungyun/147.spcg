@@ -1,6 +1,6 @@
 User-agent: *
 Disallow: 
-Sitemap:http://spcg.primebiz.kr/sitemap.xml
+Sitemap:http://spcg.qustmddus.com/sitemap.xml
 
 User-agent:Yeti
 Disallow: 
